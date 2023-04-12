@@ -8,8 +8,8 @@
                 who is creative, resourceful, and flexible, enjoys learning new skills,
                 and works well both independently and as part of a team.
 
-                I spent most of my youth in San Rafael, Iloilo, however I am currently
-                residing&nbsp;&nbsp;in 47 Dicen St. Brgy. Bantud, Lapaz,&nbsp;Iloilo City.&nbsp;&nbsp;
-                I'm also presently balancing academic and employment responsibilities as
-                I work &nbsp;night shift as a Lead Verification Specialist at&nbsp;TruAlliant Inc.
-                  </td>
+                I like to take part on volunteering activities, as it actually gives me a venture to extend any help that I could help.
+                I like to explore also with regards to technology as I much interested in new technological innovations.
+                I spent a lot of time planning on where actually I could go cafe hunting, as I couldn't go mya day without taking a sip of caffeine.
+                I also love  book hoardind especially action fictions.
+                And a horror movies also gives me a chilling but exciting feeling.
