@@ -1,10 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-<title> Princess Eve </title>
-</head>
-<body>
 <td width="60%">
               <font face="Papyrus" size="6" color="white">
                 PRINCESS EVE SANTIAGO
@@ -19,5 +12,4 @@
                 residing&nbsp;&nbsp;in 47 Dicen St. Brgy. Bantud, Lapaz,&nbsp;Iloilo City.&nbsp;&nbsp;
                 I'm also presently balancing academic and employment responsibilities as
                 I work &nbsp;night shift as a Lead Verification Specialist at&nbsp;TruAlliant Inc.
-</body>
-</html>
+                  </td>
