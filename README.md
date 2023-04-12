@@ -4,9 +4,7 @@
                 </font>
                 <font face="Poppins" size="4.5" color="white">
                 <hr color="black">
-                A 21 year old energetic self-starter with strong communication skills,
-                who is creative, resourceful, and flexible, enjoys learning new skills,
-                and works well both independently and as part of a team.
+               I am a 3rd Year BSIT Student specializing in Data Science at Central Philippine University.
 
                 I like to take part on volunteering activities, as it actually gives me a venture to extend any help that I could help.
                 I like to explore also with regards to technology as I much interested in new technological innovations.
