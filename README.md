@@ -1,8 +1,21 @@
-Hi, my name is Princess Eve Santiago. A 3rd year BSIT student and currently taking up Information Technology at Central Philippine University.
+<html>
+<head>
+<title> Princess Eve </title>
+</head>
+<body>
+<td width="60%">
+              <font face="Papyrus" size="6" color="white">
+                PRINCESS EVE SANTIAGO
+                </font>
+                <font face="Poppins" size="4.5" color="white">
+                <hr color="black">
+                A 21 year old energetic self-starter with strong communication skills,
+                who is creative, resourceful, and flexible, enjoys learning new skills,
+                and works well both independently and as part of a team.
 
-Five things about me are the following:
-a. I like to learn new things especially if these fields are onn technology.
-b. I am a book-holic wherein I tend to impulsively hoard books with different genre.
-c. I spent a lot of time figuring out sometime what to eat especially if I wan tto dine outside.
-d. I tend to try different cafe branches or lets say I want cafe hunting everytime I'm in the mood of drinking coffee
-e. And horror movies will always keep me alive, not because it scares me but it actually gives me an energy to keep my day alive.
+                I spent most of my youth in San Rafael, Iloilo, however I am currently
+                residing&nbsp;&nbsp;in 47 Dicen St. Brgy. Bantud, Lapaz,&nbsp;Iloilo City.&nbsp;&nbsp;
+                I'm also presently balancing academic and employment responsibilities as
+                I work &nbsp;night shift as a Lead Verification Specialist at&nbsp;TruAlliant Inc.
+</body>
+</html>
